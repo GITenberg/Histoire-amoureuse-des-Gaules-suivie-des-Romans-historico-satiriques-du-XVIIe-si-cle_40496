@@ -1,0 +1,55 @@
+_repo: Histoire-amoureuse-des-Gaules-suivie-des-Romans-historico-satiriques-du-XVIIe-si-cle_40496
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Livet, Charles-Louis
+    alias: Livet, Ch.-L. (Charles-Louis)
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '33536'
+    url: http://www.gutenberg.org/2009/agents/33536
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bussy, Roger de Rabutin, comte de
+    aliases:
+    - Bussy-Rabutin, Roger, comte de
+    - Bussy-Rabutin, Roger de
+    - Rabutin, Roger de, comte de Bussy
+    - Bussi Rabutin, comte de
+    - De Rabutin, Roger, comte de Bussy
+    birthdate: 1618
+    deathdate: 1693
+    gutenberg_agent_id: '33531'
+    url: http://www.gutenberg.org/2009/agents/33531
+    wikipedia: http://en.wikipedia.org/wiki/Roger_de_Rabutin,_Comte_de_Bussy
+  editor:
+    agent_name: Boiteau d'Ambly, Paul
+    aliases:
+    - D'Ambly, Paul Boiteau
+    - Boiteau, Dieudonné Alexandre Paul
+    - Boiteau, Paul
+    - Boiteau, Dieudonne Alexandre Paul
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '33535'
+    url: http://www.gutenberg.org/2009/agents/33535
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40496'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature'
+- !lcc 'PQ'
+- !lcsh 'France -- Court and courtiers'
+title: Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe
+  siècle, Tome III
+url: http://www.gutenberg.org/ebooks/40496
